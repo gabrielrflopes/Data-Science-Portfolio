@@ -23,7 +23,7 @@ My credentials include a Master's in Physics from the Federal University of Itaj
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
 * [Medium](https://medium.com/@grflopes)
 
-## Artigos:
+### Artigos:
 
 * [Personal Branding](https://www.linkedin.com/pulse/urg%25C3%25AAncia-de-causar-uma-boa-impress%25C3%25A3o-gabriel-ribeiro-ferreira-lopes/?trackingId=EjBT1icNTLeqkPLBvieGOQ%3D%3D)
 
