@@ -17,7 +17,7 @@ My codes are very organized and follow the principles of data storytelling, for 
 
 My credentials include a Master's in Physics from the Federal University of Itajuba (UNIFEI), an institution of higher education and advanced research rated among the best engineering schools in Brazil. There I worked with the electrical characterization of semiconductors, applied to sensors and optoelectronic devices.
 
-**Background in:** Python, Machine Learning, Semiconductors technology, Physics.
+**Background in:** Python, Machine Learning, Semiconductor Technology, Physics.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
