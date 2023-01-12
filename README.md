@@ -3,7 +3,7 @@
 This repository is a reunion of my works on Data Science. 
 
 <p align="center">
-  <img src="LinkedIn cover - 1.png" >
+  <img src="LinkedIn cover - 1 (1).png" >
 </p>
 
 ## Gabriel R. F. Lopes
