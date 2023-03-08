@@ -18,7 +18,6 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de Itajubá (UNIFEI), uma instituição de educação superior e pesquisa avançada ranqueada entre as melhores escolas de engenharia do Brasil. Lá, trabalhei com caracterização elétrica de semicondutores, com aplicações em sensores optoeletrônicos e dispositivos eletrônicos.
 
 Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, Pensamento Analítico, Resolução de Problemas, Escrita Científica.
-### Projects:
 
 ---
 
