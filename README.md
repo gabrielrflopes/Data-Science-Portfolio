@@ -19,8 +19,6 @@ Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de 
 
 Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, Pensamento Analítico, Resolução de Problemas, Escrita Científica.
 
----
-
 ## Projetos:
 
 1. [Analisando os dados do AirBnb na cidade de Roma](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis) - Neste projeto, utilizei os dados disponíveis no Inside AirBnb para fazer uma análise exploratória completa dos dados, identificando média de preços, tipos de imóveis mais comuns, média de noites, médias de preços por bairros e a distribuição geográfica de imóveis classificados por preço.
