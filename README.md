@@ -28,6 +28,7 @@ Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, 
 * [Personal Branding](https://www.linkedin.com/pulse/urg%25C3%25AAncia-de-causar-uma-boa-impress%25C3%25A3o-gabriel-ribeiro-ferreira-lopes/?trackingId=EjBT1icNTLeqkPLBvieGOQ%3D%3D)
 * [Decisões orientadas por dados](https://www.linkedin.com/pulse/alguns-fatos-incontest%C3%A1veis-sobre-decis%C3%A3o-orientada-gabriel/)
 * [Analisando os dados do AirBnb na cidade de Roma](https://grflopes.medium.com/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc) 
+* [Como usar cada tipo de gráfico no contexto certo usando o Matplotlib](https://grflopes.medium.com/como-usar-cada-tipo-de-gr%C3%A1fico-no-contexto-certo-usando-o-matplotlib-c640bbcdfe79)
 
 **Links importantes:**
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
