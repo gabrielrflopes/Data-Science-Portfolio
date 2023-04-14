@@ -22,7 +22,7 @@ Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, 
 ## Projetos:
 
 1. [Analisando os dados do AirBnb na cidade de Roma](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis) - Neste projeto, utilizei os dados disponíveis no Inside AirBnb para fazer uma análise exploratória completa dos dados, identificando média de preços, tipos de imóveis mais comuns, média de noites, médias de preços por bairros e a distribuição geográfica de imóveis classificados por preço.
-2. [Panorama do COVID-19 no Brasil e no mundo](https://github.com/gabrielrflopes/covid_project/blob/main/Panorama_do_COVID_19_no_Brasil_e_no_mundo.ipynb) - Nesse projeto, utilizei os dados fornecidos pelo *Our World in Data* para analisar o panorama do COVID no Brasil e no mundo. O foco foi em avaliar a evolução da pandemia, os países mais afetados e o efeito da vacinação sobre casos e mortes.
+2. [Panorama do COVID-19 no Brasil e no mundo](https://github.com/gabrielrflopes/covid_project) - Nesse projeto, utilizei os dados fornecidos pelo *Our World in Data* para analisar o panorama do COVID no Brasil e no mundo. O foco foi em avaliar a evolução da pandemia, os países mais afetados e o efeito da vacinação sobre casos e mortes.
 
 ### Artigos:
 
