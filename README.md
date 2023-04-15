@@ -37,5 +37,3 @@ Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, 
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
 * [Medium](https://medium.com/@grflopes)
 * [Instagram](https://www.instagram.com/gabrielr.lopes/)
-
----
