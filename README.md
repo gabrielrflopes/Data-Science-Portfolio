@@ -3,7 +3,7 @@
 Este repositório é uma reunião dos meus trabalhos com _data science_.
 
 <p align="center">
-  <img src="LinkedIn cover - 1 (3).png" >
+  <img src="capa_port.png" >
 </p>
 
 ## Gabriel R. F. Lopes
