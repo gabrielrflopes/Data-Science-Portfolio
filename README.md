@@ -17,13 +17,17 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 
 Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de Itajubá (UNIFEI), uma instituição de educação superior e pesquisa avançada ranqueada entre as melhores escolas de engenharia do Brasil. Lá, trabalhei com caracterização elétrica de semicondutores, com aplicações em sensores optoeletrônicos e dispositivos eletrônicos.
 
-**Habilidades**: 
+* **Habilidades**: 
 
 Python; Análise de dados com Pandas e Numpy; Visualização de dados com Matplotlib e Seaborn; Machine Learning com Scikit-Learn e Tensorflow; SQL; LaTeX; Matemática avançada (Cálculo, Cálculo Vetorial, Álgebra Linear); Conhecimento avançados em probabilidade e estatística; Conhecimentos avançados em tecnologia de semicondutores e sensores; Física.
 
-**Soft Skills:** 
+* **Soft Skills:** 
 
 Pensamento Analítico de problemas; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
+
+**Idiomas:**
+
+Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico (Entende bem, Lê bem e pouca experiência em conversação).
 
 ## Projetos:
 
