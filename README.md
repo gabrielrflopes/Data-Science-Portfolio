@@ -32,6 +32,14 @@ Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, 
 * [Como usar cada tipo de gráfico no contexto certo usando o Matplotlib](https://grflopes.medium.com/como-usar-cada-tipo-de-gr%C3%A1fico-no-contexto-certo-usando-o-matplotlib-c640bbcdfe79)
 * [Criando interações com gráficos usando o iPyWidgets](https://medium.com/@grflopes/criando-intera%C3%A7%C3%B5es-com-gr%C3%A1ficos-usando-o-ipywidgets-49a83dad43ec)
 * [Panorama do COVID-19 no Brasil e no mundo](https://medium.com/@grflopes/panorama-do-covid-19-no-brasil-e-no-mundo-a67cfb94af5f)
+* [O dicionário de conceitos fundamentais em Data Science](https://grflopes.medium.com/o-dicionário-de-conceitos-fundamentais-em-data-science-c818b04e3a2b)
+
+### Artigos Acadêmicos:
+
+**Área: Física da Matéria Condensada**
+
+* [Photoconductivity effect in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/119/3/032104/41763/Photoconductivity-effect-in-SnTe-quantum-well)
+* [Weak antilocalization effect and multi-channel transport in SnTe quantum well](https://pubs.aip.org/aip/apl/article/120/20/203102/2833593/Weak-antilocalization-effect-and-multi-channel)
 
 **Links importantes:**
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
