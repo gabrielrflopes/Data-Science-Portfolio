@@ -25,7 +25,7 @@ Python; Análise de dados com Pandas e Numpy; Visualização de dados com Matplo
 
 Pensamento Analítico de problemas; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
 
-**Idiomas:**
+* **Idiomas:**
 
 Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico (Entende bem, Lê bem e pouca experiência em conversação).
 
