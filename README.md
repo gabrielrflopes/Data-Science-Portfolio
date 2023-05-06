@@ -15,7 +15,7 @@ No estudo de _data science_, pretendo utilizar desse conhecimento para ajudar ne
 
 Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seguindo os princípios do _data storytelling_ para melhorar o entendimento e hierarquização das informações. Nas minhas análises, busco seguir uma metodologia científica para tirar conclusões precisas e não-intuitivas.
 
-Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de Itajubá (UNIFEI), uma instituição de educação superior e pesquisa avançada ranqueada entre as melhores escolas de engenharia do Brasil. Lá, trabalhei com caracterização elétrica de semicondutores, com aplicações em sensores optoeletrônicos e dispositivos eletrônicos.
+Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de Itajubá (UNIFEI), uma instituição de educação superior e pesquisa avançada ranqueada entre as melhores escolas de engenharia do Brasil. Lá, trabalhei com caracterização elétrica de semicondutores, com aplicações em sensores optoeletrônicos e dispositivos eletrônicos, publicando dois artigos científicos em revistas internacionais, como resultado das minhas pesquisas.
 
 * #### Habilidades 
 
