@@ -51,7 +51,8 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 * [Photoconductivity effect in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/119/3/032104/41763/Photoconductivity-effect-in-SnTe-quantum-well)
 * [Weak antilocalization effect and multi-channel transport in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/120/20/203102/2833593/Weak-antilocalization-effect-and-multi-channel)
 
-**Links importantes:**
+### Links importantes:
+
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
 * [Medium](https://medium.com/@grflopes)
 * [Instagram](https://www.instagram.com/gabrielr.lopes/)
