@@ -9,15 +9,21 @@ Este repositório é uma reunião dos meus trabalhos com _data science_.
 ## Gabriel R. F. Lopes
 <sub>*Cientista de dados e MsC. em Física*</sub>
 
-Como um experiente pesquisador em Física, conduzi experimentos que se apoiavam principalmente na análise de dados e sua visualização. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos utilizandos dados.
+Com a experiência sendo pesquisador em Física, conduzi experimentos que se apoiavam principalmente na análise, visualização e apresentação de dados. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos de física e matemática avançadas utilizandos dados.
 
-No estudo de _data science_, pretendo utilizar desse conhecimento para ajudar negócios e pessoas com soluções de análise e tratamento de dados. Complementando essa experiência passada com pesquisa científica, estou me especializando em bibliotecas como Pandas, Matplotlib, Seaborn, além de buscar conhecimento de Machine Learning e automações, que economizam tempo de processos para empresas. 
+No estudo de _data science_, pretendo utilizar desse conhecimento para ajudar negócios e pessoas com soluções de análise e tratamento de dados. Complementando essa experiência passada com pesquisa científica, estou me especializando em bibliotecas como Pandas, Numpy, Matplotlib, Seaborn, além de áreas como Machine Learning, Inteligência Artificial e Visão Computacional.
 
 Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seguindo os princípios do _data storytelling_ para melhorar o entendimento e hierarquização das informações. Nas minhas análises, busco seguir uma metodologia científica para tirar conclusões precisas e não-intuitivas.
 
 Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de Itajubá (UNIFEI), uma instituição de educação superior e pesquisa avançada ranqueada entre as melhores escolas de engenharia do Brasil. Lá, trabalhei com caracterização elétrica de semicondutores, com aplicações em sensores optoeletrônicos e dispositivos eletrônicos.
 
-Background em: Python, Machine Learning, Tecnologia de semicondutores, Física, Pensamento Analítico, Resolução de Problemas, Escrita Científica.
+**Habilidades**: 
+
+Python; Análise de dados com Pandas e Numpy; Visualização de dados com Matplotlib e Seaborn; Machine Learning com Scikit-Learn e Tensorflow; SQL; LaTeX; Matemática avançada (Cálculo, Cálculo Vetorial, Álgebra Linear); Conhecimento avançados em probabilidade e estatística; Conhecimentos avançados em tecnologia de semicondutores e sensores; Física.
+
+**Soft Skills:** 
+
+Pensamento Analítico de problemas; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
 
 ## Projetos:
 
