@@ -33,6 +33,7 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 
 1. [Analisando os dados do AirBnb na cidade de Roma](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis) - Neste projeto, utilizei os dados disponíveis no Inside AirBnb para fazer uma análise exploratória completa dos dados, identificando média de preços, tipos de imóveis mais comuns, média de noites, médias de preços por bairros e a distribuição geográfica de imóveis classificados por preço.
 2. [Panorama do COVID-19 no Brasil e no mundo](https://github.com/gabrielrflopes/covid_project) - Nesse projeto, utilizei os dados fornecidos pelo *Our World in Data* para analisar o panorama do COVID no Brasil e no mundo. O foco foi em avaliar a evolução da pandemia, os países mais afetados e o efeito da vacinação sobre casos e mortes.
+3. [Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection) - Desenvolvi modelos supervisionados de Machine Learning que classificam transações fraudulentas e legítimas. Comparei os modelos de regressão logística e de árvore de decisão, visando soluções para problemas de negócios reais que empresas de cartões de crédito podem passar.
 
 ### Artigos:
 
