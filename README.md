@@ -31,10 +31,11 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 
 ## Projetos:
 
-1. [Analisando os dados do AirBnb na cidade de Roma](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis) - Neste projeto, utilizei os dados disponíveis no Inside AirBnb para fazer uma análise exploratória completa dos dados, identificando média de preços, tipos de imóveis mais comuns, média de noites, médias de preços por bairros e a distribuição geográfica de imóveis classificados por preço.
-2. [Panorama do COVID-19 no Brasil e no mundo](https://github.com/gabrielrflopes/covid_project) - Nesse projeto, utilizei os dados fornecidos pelo *Our World in Data* para analisar o panorama do COVID no Brasil e no mundo. O foco foi em avaliar a evolução da pandemia, os países mais afetados e o efeito da vacinação sobre casos e mortes.
+1. [Analisando os Dados do AirBnb na Cidade de Roma](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis) - Neste projeto, utilizei os dados disponíveis no Inside AirBnb para fazer uma análise exploratória completa dos dados, identificando média de preços, tipos de imóveis mais comuns, média de noites, médias de preços por bairros e a distribuição geográfica de imóveis classificados por preço.
+2. [Panorama do COVID-19 no Brasil e no Mundo](https://github.com/gabrielrflopes/covid_project) - Nesse projeto, utilizei os dados fornecidos pelo *Our World in Data* para analisar o panorama do COVID no Brasil e no mundo. O foco foi em avaliar a evolução da pandemia, os países mais afetados e o efeito da vacinação sobre casos e mortes.
 3. [Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection) - Desenvolvi modelos supervisionados de Machine Learning que classificam transações fraudulentas e legítimas. Comparei os modelos de regressão logística e de árvore de decisão, visando soluções para problemas de negócios reais que empresas de cartões de crédito podem passar.
-
+4. [Machine Learning Aplicado à Previsão de Rotatividade]() - Desenvolvi modelos de classificação para **previsão de Churn** de clientes  de uma empresa de telecomunicações a partir de dados históricos. Foram utilizadas técnicas de pré-processamento para codificação das variáveis categóricas, como LabelEncoder para variáveis binárias. Os treinamentos dos modelos foram feitos utilizando técnicas de validação cruzada e GridSearchCV, permitindo otimização de hiperparâmetros visando maximizar a métrica de recall, que se refere à previsão de Churn. Três modelos foram criados com diferentes graus de previsão, podendo se adequar às circunstâncias das empresas segundo as particularidades do problema de negócios em questão.
+   
 ### Artigos:
 
 * [Personal Branding](https://www.linkedin.com/pulse/urg%25C3%25AAncia-de-causar-uma-boa-impress%25C3%25A3o-gabriel-ribeiro-ferreira-lopes/?trackingId=EjBT1icNTLeqkPLBvieGOQ%3D%3D)
