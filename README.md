@@ -46,7 +46,11 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 6. [Segmentação de Clientes com K-Means Clustering](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/IBM_ML0101EN_Segmenta%C3%A7%C3%A3o_de_Clientes_com_K_Means.ipynb): Estudo com dados históricos de clientes, baseando-se em atributos como educação, renda e dívidas, por exemplo. O objetivo consistiu de criar grupos de clientes com padrões de compras parecidos, através do algorítmo de clusterização K-Means. Com isto, é possível direcionar estratégias de marketing mais efetivas para cada grupo, economizando recursos para a empresa.
 7. [Análise dos Lançamentos do Foguete Falcon 9 da SpaceX](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/2_SpaceX_Falcon9_Launches_Data.ipynb): Estudo que consiste da análise exploratória e visualização de dados, utilizando Matplotlib e Seaborn, dos lançamentos do foguete Falcon 9 da SpaceX.
 
+## Certificados
 
+- [IBM Machine Learning With Python](https://www.credly.com/earner/earned/badge/486f31f9-bf09-4757-b283-ca6468ef7f85)
+- [IBM Data Analysis With Python](https://www.credly.com/badges/4ff462e1-6834-4a6b-856e-03e7b0047c7d/linked_in_profile)
+- [IBM SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/dd8369f75490408db92608d9f2476678)
    
 ### Artigos:
 
