@@ -52,7 +52,7 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 - [IBM Data Analysis With Python](https://www.credly.com/badges/4ff462e1-6834-4a6b-856e-03e7b0047c7d/linked_in_profile)
 - [IBM SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/dd8369f75490408db92608d9f2476678)
    
-### Artigos:
+## Artigos:
 
 * [Personal Branding](https://www.linkedin.com/pulse/urg%25C3%25AAncia-de-causar-uma-boa-impress%25C3%25A3o-gabriel-ribeiro-ferreira-lopes/?trackingId=EjBT1icNTLeqkPLBvieGOQ%3D%3D)
 * [Decisões orientadas por dados](https://www.linkedin.com/pulse/alguns-fatos-incontest%C3%A1veis-sobre-decis%C3%A3o-orientada-gabriel/)
@@ -64,14 +64,14 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 * [Aprendizado supervisionado aplicado à detecção de fraudes em cartões de crédito](https://grflopes.medium.com/aprendizado-supervisionado-aplicado-%C3%A0-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d74501220ec2)
 * [Machine Learning Aplicado à Previsão de Rotatividade](https://medium.com/@grflopes/machine-learning-aplicado-à-previsão-de-rotatividade-de-clientes-1d29c491ed3a)
 
-### Artigos Acadêmicos:
+## Artigos Acadêmicos:
 
 **Área: Física da Matéria Condensada**
 
 * [Photoconductivity effect in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/119/3/032104/41763/Photoconductivity-effect-in-SnTe-quantum-well)
 * [Weak antilocalization effect and multi-channel transport in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/120/20/203102/2833593/Weak-antilocalization-effect-and-multi-channel)
 
-### Links importantes:
+## Links importantes:
 
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
 * [Medium](https://medium.com/@grflopes)
