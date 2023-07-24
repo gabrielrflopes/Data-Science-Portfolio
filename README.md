@@ -1,10 +1,20 @@
 # Portfolio
 
-Este repositório é uma reunião dos meus trabalhos com _data science_.
-
 <p align="center">
   <img src="capa_port.png" >
 </p>
+
+## Índice
+
+- [Apresentação](https://github.com/gabrielrflopes/Data-Science-Portfolio/edit/main/README.md#gabriel-r-f-lopes)
+- [Habilidades, Soft Skills e Idiomas](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#habilidades)
+- [Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos)
+- [Projetos de Estudo](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudo)
+- [Certificados](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#certificados)
+- [Artigos sobre os Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-os-projetos)
+- [Artigos sobre Data Science](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-data-science)
+- [Artigos Acadêmicos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-acad%C3%AAmicos)
+- [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
 
 ## Gabriel R. F. Lopes
 <sub>*Cientista de dados e MsC. em Física*</sub>
@@ -36,7 +46,7 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 3. [Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection): Desenvolvi modelos supervisionados de Machine Learning que classificam transações fraudulentas e legítimas. Comparei os modelos de regressão logística e de árvore de decisão, visando soluções para problemas de negócios reais que empresas de cartões de crédito podem passar.
 4. [Machine Learning Aplicado à Previsão de Rotatividade](https://github.com/gabrielrflopes/Churn_Prediction): Desenvolvi modelos de classificação para **previsão de Churn** de clientes  de uma empresa de telecomunicações a partir de dados históricos. Foram utilizadas técnicas de pré-processamento para codificação das variáveis categóricas, como LabelEncoder para variáveis binárias. Os treinamentos dos modelos foram feitos utilizando técnicas de validação cruzada e GridSearchCV, permitindo otimização de hiperparâmetros visando maximizar a métrica de recall, que se refere à previsão de Churn. Três modelos foram criados com diferentes graus de previsão, podendo se adequar às circunstâncias das empresas segundo as particularidades do problema de negócios em questão.
 
-## Projetos Menores:
+## Projetos de Estudo:
 
 1. [Previsão de Emissão de CO2 para Novos Carros Fabricados](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/IBM_ML0101EN_CO2_Prediction.ipynb): Estudo de um conjunto de dados históricos sobre carros fabricados de diversas marcas, visando criar modelos de regressão linear, linear múltipla e polinomial para prever a emissão de CO2 de um novo carro.
 2. [Previsão de Medicamentos com Classificação por Árvore de Decisão](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/IBM_ML0101EN_Decision_Tree_Drug_Classification.ipynb): Estudo de dados sobre caractéristicas de pacientes, como colesterol e pressão arterial, visando criar um modelo de classificação de árvore de decisão que possa classificar corretamente qual o medicamento a ser prescrito.
