@@ -52,17 +52,21 @@ Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico
 - [IBM Data Analysis With Python](https://www.credly.com/badges/4ff462e1-6834-4a6b-856e-03e7b0047c7d/linked_in_profile)
 - [IBM SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/dd8369f75490408db92608d9f2476678)
    
-## Artigos:
+## Artigos Sobre os Projetos:
+
+* [Analisando os dados do AirBnb na cidade de Roma](https://grflopes.medium.com/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc) 
+* [Panorama do COVID-19 no Brasil e no mundo](https://medium.com/@grflopes/panorama-do-covid-19-no-brasil-e-no-mundo-a67cfb94af5f)
+* [Aprendizado supervisionado aplicado à detecção de fraudes em cartões de crédito](https://grflopes.medium.com/aprendizado-supervisionado-aplicado-%C3%A0-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d74501220ec2)
+* [Machine Learning Aplicado à Previsão de Rotatividade](https://medium.com/@grflopes/machine-learning-aplicado-à-previsão-de-rotatividade-de-clientes-1d29c491ed3a)
+
+## Artigos Sobre Data Science:
 
 * [Personal Branding](https://www.linkedin.com/pulse/urg%25C3%25AAncia-de-causar-uma-boa-impress%25C3%25A3o-gabriel-ribeiro-ferreira-lopes/?trackingId=EjBT1icNTLeqkPLBvieGOQ%3D%3D)
 * [Decisões orientadas por dados](https://www.linkedin.com/pulse/alguns-fatos-incontest%C3%A1veis-sobre-decis%C3%A3o-orientada-gabriel/)
-* [Analisando os dados do AirBnb na cidade de Roma](https://grflopes.medium.com/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc) 
 * [Como usar cada tipo de gráfico no contexto certo usando o Matplotlib](https://grflopes.medium.com/como-usar-cada-tipo-de-gr%C3%A1fico-no-contexto-certo-usando-o-matplotlib-c640bbcdfe79)
 * [Criando interações com gráficos usando o iPyWidgets](https://medium.com/@grflopes/criando-intera%C3%A7%C3%B5es-com-gr%C3%A1ficos-usando-o-ipywidgets-49a83dad43ec)
-* [Panorama do COVID-19 no Brasil e no mundo](https://medium.com/@grflopes/panorama-do-covid-19-no-brasil-e-no-mundo-a67cfb94af5f)
 * [O dicionário de conceitos fundamentais em Data Science](https://grflopes.medium.com/o-dicionário-de-conceitos-fundamentais-em-data-science-c818b04e3a2b)
-* [Aprendizado supervisionado aplicado à detecção de fraudes em cartões de crédito](https://grflopes.medium.com/aprendizado-supervisionado-aplicado-%C3%A0-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d74501220ec2)
-* [Machine Learning Aplicado à Previsão de Rotatividade](https://medium.com/@grflopes/machine-learning-aplicado-à-previsão-de-rotatividade-de-clientes-1d29c491ed3a)
+* [Por que a otimização é importante no Machine Learning?](https://medium.com/@grflopes/por-que-a-otimiza%C3%A7%C3%A3o-%C3%A9-importante-no-machine-learning-53cd4ace03f)
 
 ## Artigos Acadêmicos:
 
