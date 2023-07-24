@@ -6,7 +6,7 @@
 
 ## Índice
 
-- [Apresentação](https://github.com/gabrielrflopes/Data-Science-Portfolio/edit/main/README.md#gabriel-r-f-lopes)
+- [Apresentação](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#gabriel-r-f-lopes)
 - [Habilidades, Soft Skills e Idiomas](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#habilidades)
 - [Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos)
 - [Projetos de Estudo](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudo)
