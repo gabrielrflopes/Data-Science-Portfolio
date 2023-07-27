@@ -18,32 +18,34 @@
 ## Gabriel R. F. Lopes
 <sub>*Cientista de dados e MsC. em Física*</sub>
 
-Com a experiência sendo pesquisador em Física, conduzi experimentos que se apoiavam principalmente na análise, visualização e apresentação de dados. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos de física e matemática avançadas utilizandos dados.
+Bacharel e Mestre em Física pela Universidade Federal de Itajubá, referência mundial na área de exatas e engenharia. Possuo 6 anos de experiência com projetos de análise de dados, desde a condução de experimentos, coleta de dados, até o tratamento e visualização desses dados para apresentação. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos de física e matemática avançadas utilizando dados.
 
-No estudo de _data science_, pretendo utilizar desse conhecimento para ajudar negócios e pessoas com soluções de análise e tratamento de dados. Complementando essa experiência passada com pesquisa científica, estou me especializando em bibliotecas como Pandas, Numpy, Matplotlib, Seaborn, além de áreas como Machine Learning, Inteligência Artificial e Visão Computacional.
+Na minha experiência acadêmica durante o Mestrado, coordenei e supervisionei experimentos, realizei a análise dos dados, construí modelos preditivos e testei hipóteses sobre o comportamento de semicondutores para aplicações em dispositivos eletrônicos. Da pesquisa, resultaram dois artigos publicadods na *Applied Physics Letters* com estudos inéditos.
+
+Como cientista de dados, construo modelos preditivos baseados em aprendizado de máquina, utilizando das técnicas mais difundidas. Com amplo conhecimento das ferramentas do Python e suas bibliotecas essenciais, além da experiência com SQL, bancos de dados relacionais, Big Data e Cloud, sou  capaz de criar soluções visando soluções para problemas de negócios em diversos nichos.
 
 Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seguindo os princípios do _data storytelling_ para melhorar o entendimento e hierarquização das informações. Nas minhas análises, busco seguir uma metodologia científica para tirar conclusões precisas e não-intuitivas.
 
-Minhas credenciais incluem: um Mestrado em Física pela Universidade Federal de Itajubá (UNIFEI), uma instituição de educação superior e pesquisa avançada ranqueada entre as melhores escolas de engenharia do Brasil. Lá, trabalhei com caracterização elétrica de semicondutores, com aplicações em sensores optoeletrônicos e dispositivos eletrônicos, publicando dois artigos científicos em revistas internacionais, como resultado das minhas pesquisas.
+#### Habilidades 
 
-* #### Habilidades 
+- Programação: **Python, SQL, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyCaret, TensorFlow, Keras, LaTeX.**
+- Habilidades Técnicas: **Matemática Avançada, Probabilidade e Estatística, Física, Time Series, Metodologia Científica.**
 
-Python; Análise de dados com Pandas e Numpy; Visualização de dados com Matplotlib e Seaborn; Machine Learning com Scikit-Learn e Tensorflow; SQL; LaTeX; Matemática avançada (Cálculo, Cálculo Vetorial, Álgebra Linear); Conhecimento avançados em probabilidade e estatística; Conhecimentos avançados em tecnologia de semicondutores e sensores; Física.
+#### Soft Skills 
 
-* #### Soft Skills 
+- Pensamento Analítico; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
 
-Pensamento Analítico de problemas; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
+#### Idiomas
 
-* #### Idiomas
-
-Inglês avançado (Excelente conversação, escrita e leitura); Espanhol básico (Entende bem, Lê bem e pouca experiência em conversação).
+- Inglês avançado (B2 - Excelente conversação, escrita e leitura)
+- Espanhol básico (Entende bem, Lê bem)
 
 ## Projetos:
 
 1. [Analisando os Dados do AirBnb na Cidade de Roma](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis): Neste projeto, utilizei os dados disponíveis no Inside AirBnb para fazer uma análise exploratória completa dos dados, identificando média de preços, tipos de imóveis mais comuns, média de noites, médias de preços por bairros e a distribuição geográfica de imóveis classificados por preço.
 2. [Panorama do COVID-19 no Brasil e no Mundo](https://github.com/gabrielrflopes/covid_project): Nesse projeto, utilizei os dados fornecidos pelo *Our World in Data* para analisar o panorama do COVID no Brasil e no mundo. O foco foi em avaliar a evolução da pandemia, os países mais afetados e o efeito da vacinação sobre casos e mortes.
-3. [Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection): Desenvolvi modelos supervisionados de Machine Learning que classificam transações fraudulentas e legítimas. Comparei os modelos de regressão logística e de árvore de decisão, visando soluções para problemas de negócios reais que empresas de cartões de crédito podem passar.
-4. [Machine Learning Aplicado à Previsão de Rotatividade](https://github.com/gabrielrflopes/Churn_Prediction): Desenvolvi modelos de classificação para **previsão de Churn** de clientes  de uma empresa de telecomunicações a partir de dados históricos. Foram utilizadas técnicas de pré-processamento para codificação das variáveis categóricas, como LabelEncoder para variáveis binárias. Os treinamentos dos modelos foram feitos utilizando técnicas de validação cruzada e GridSearchCV, permitindo otimização de hiperparâmetros visando maximizar a métrica de recall, que se refere à previsão de Churn. Três modelos foram criados com diferentes graus de previsão, podendo se adequar às circunstâncias das empresas segundo as particularidades do problema de negócios em questão.
+4. [Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection): Desenvolvi modelos supervisionados de Machine Learning que classificam transações fraudulentas e legítimas. Comparei os modelos de regressão logística e de árvore de decisão, visando soluções para problemas de negócios reais que empresas de cartões de crédito podem passar.
+5. [Machine Learning Aplicado à Previsão de Rotatividade](https://github.com/gabrielrflopes/Churn_Prediction): Desenvolvi modelos de classificação para **previsão de Churn** de clientes  de uma empresa de telecomunicações a partir de dados históricos. Foram utilizadas técnicas de pré-processamento para codificação das variáveis categóricas, como LabelEncoder para variáveis binárias. Os treinamentos dos modelos foram feitos utilizando técnicas de validação cruzada e GridSearchCV, permitindo otimização de hiperparâmetros visando maximizar a métrica de recall, que se refere à previsão de Churn. Três modelos foram criados com diferentes graus de previsão, podendo se adequar às circunstâncias das empresas segundo as particularidades do problema de negócios em questão.
 
 ## Projetos de Estudo:
 
