@@ -28,7 +28,7 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 
 #### Habilidades 
 
-- Programação: **Python, SQL, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyCaret, TensorFlow, Keras, LaTeX.**
+- Programação: **Python, SQL, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyCaret, TensorFlow, Keras, LaTeX, DataBricks, AWS.**
 - Habilidades Técnicas: **Matemática Avançada, Probabilidade e Estatística, Física, Time Series, Metodologia Científica.**
 
 #### Soft Skills 
