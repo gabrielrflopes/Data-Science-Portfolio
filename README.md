@@ -24,6 +24,8 @@ Na minha experiência acadêmica durante o Mestrado, coordenei e supervisionei e
 
 Como cientista de dados, construo modelos preditivos baseados em aprendizado de máquina, utilizando das técnicas mais difundidas. Com amplo conhecimento das ferramentas do Python e suas bibliotecas essenciais, além da experiência com SQL, bancos de dados relacionais, Big Data e Cloud, sou  capaz de criar soluções visando soluções para problemas de negócios em diversos nichos.
 
+Tenho experiência com modelos de aprendizado supervisionado e não-supervisionado, como regressão (linear, polinomial, bayesiana, lasso), classificação (regressão logística, decision trees, random forest, kNN, SVM), clustering (K-Means, DBSCAN), além de técnicas de Boosting de Gradiente, como XGBoost e LightGBM.
+
 Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seguindo os princípios do _data storytelling_ para melhorar o entendimento e hierarquização das informações. Nas minhas análises, busco seguir uma metodologia científica para tirar conclusões precisas e não-intuitivas.
 
 #### Habilidades 
