@@ -62,7 +62,7 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 
 ## Certificados
 
-- [IBM Machine Learning With Python](https://www.credly.com/earner/earned/badge/486f31f9-bf09-4757-b283-ca6468ef7f85)
+- [IBM Machine Learning With Python](https://www.credly.com/badges/486f31f9-bf09-4757-b283-ca6468ef7f85/public_url)
 - [IBM Data Analysis With Python](https://www.credly.com/badges/4ff462e1-6834-4a6b-856e-03e7b0047c7d/linked_in_profile)
 - [IBM SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/dd8369f75490408db92608d9f2476678)
    
