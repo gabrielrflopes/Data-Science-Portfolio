@@ -73,6 +73,7 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 * [Panorama do COVID-19 no Brasil e no mundo](https://medium.com/@grflopes/panorama-do-covid-19-no-brasil-e-no-mundo-a67cfb94af5f)
 * [Aprendizado supervisionado aplicado à detecção de fraudes em cartões de crédito](https://grflopes.medium.com/aprendizado-supervisionado-aplicado-%C3%A0-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d74501220ec2)
 * [Machine Learning Aplicado à Previsão de Rotatividade](https://medium.com/@grflopes/machine-learning-aplicado-à-previsão-de-rotatividade-de-clientes-1d29c491ed3a)
+* [Classificação de saúde fetal](https://grflopes.medium.com/machine-learning-aplicado-ao-diagnóstico-de-saúde-fetal-d470b4e321c1)
 
 ## Artigos Sobre Data Science:
 
