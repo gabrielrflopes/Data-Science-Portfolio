@@ -16,7 +16,6 @@
 - [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
 
 ## Gabriel R. F. Lopes
-<sub>*Cientista de dados e MsC. em Física*</sub>
 
 Bacharel e Mestre em Física pela Universidade Federal de Itajubá, referência mundial na área de exatas e engenharia. Possuo 6 anos de experiência com projetos de análise de dados, desde a condução de experimentos, coleta de dados, até o tratamento e visualização desses dados para apresentação. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos de física e matemática avançadas utilizando dados.
 
