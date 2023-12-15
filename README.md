@@ -62,6 +62,7 @@
 * [Aprendizado supervisionado aplicado à detecção de fraudes em cartões de crédito](https://grflopes.medium.com/aprendizado-supervisionado-aplicado-%C3%A0-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-d74501220ec2)
 * [Machine Learning Aplicado à Previsão de Rotatividade](https://medium.com/@grflopes/machine-learning-aplicado-à-previsão-de-rotatividade-de-clientes-1d29c491ed3a)
 * [Classificação de saúde fetal](https://grflopes.medium.com/machine-learning-aplicado-ao-diagnóstico-de-saúde-fetal-d470b4e321c1)
+* [Previsão de demanda com séries temporais](https://medium.com/@grflopes/uma-maneira-de-prever-demanda-de-vendas-com-séries-temporais-970ad550b8e9)
 
 ## Artigos Sobre Data Science:
 
