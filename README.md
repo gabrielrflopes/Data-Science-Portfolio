@@ -6,7 +6,6 @@
 
 ## Índice
 
-- [Apresentação](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#gabriel-r-f-lopes)
 - [Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos)
 - [Projetos de Estudo](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudo)
 - [Certificados](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#certificados)
@@ -14,32 +13,7 @@
 - [Artigos sobre Data Science](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-data-science)
 - [Artigos Acadêmicos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-acad%C3%AAmicos)
 - [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
-
-## Gabriel R. F. Lopes
-
-Bacharel e Mestre em Física pela Universidade Federal de Itajubá, referência mundial na área de exatas e engenharia. Possuo 6 anos de experiência com projetos de análise de dados, desde a condução de experimentos, coleta de dados, até o tratamento e visualização desses dados para apresentação. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos de física e matemática avançadas utilizando dados.
-
-Na minha experiência acadêmica durante o Mestrado, coordenei e supervisionei experimentos, realizei a análise dos dados, construí modelos preditivos e testei hipóteses sobre o comportamento de semicondutores para aplicações em dispositivos eletrônicos. Da pesquisa, resultaram dois artigos publicadods na *Applied Physics Letters* com estudos inéditos.
-
-Como cientista de dados, construo modelos preditivos baseados em aprendizado de máquina, utilizando das técnicas mais difundidas. Com amplo conhecimento das ferramentas do Python e suas bibliotecas essenciais, além da experiência com SQL, bancos de dados relacionais, Big Data e Cloud, sou  capaz de criar soluções visando soluções para problemas de negócios em diversos nichos.
-
-Tenho experiência com modelos de aprendizado supervisionado e não-supervisionado, como regressão (linear, polinomial, bayesiana, lasso), classificação (regressão logística, decision trees, random forest, kNN, SVM), clustering (K-Means, DBSCAN), além de técnicas de Boosting de Gradiente, como XGBoost e LightGBM.
-
-Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seguindo os princípios do _data storytelling_ para melhorar o entendimento e hierarquização das informações. Nas minhas análises, busco seguir uma metodologia científica para tirar conclusões precisas e não-intuitivas.
-
-#### Habilidades 
-
-- Programação: **Python, SQL, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyCaret, TensorFlow, Keras, LaTeX, DataBricks, AWS.**
-- Habilidades Técnicas: **Matemática Avançada, Probabilidade e Estatística, Física, Time Series, Metodologia Científica.**
-
-#### Soft Skills 
-
-- Pensamento Analítico; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
-
-#### Idiomas
-
-- Inglês avançado (B2 - Excelente conversação, escrita e leitura)
-- Espanhol básico (Entende bem, Lê bem)
+- [Quem Sou Eu](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#gabriel-r-f-lopes)
 
 ## Projetos:
 
@@ -60,6 +34,20 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 5. [**Detecção de Tumores com SVM**](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/IBM_ML0101EN_Tumour_Detection_with_SVM.ipynb): Estudo com dados de centenas de células humanas, com o objetivo de criar um modelo baseado em máquinas de vetores de suporte capaz de classificar tumores benignos e malignos. Foi explorado as correlações das variáveis, e a construção do modelo passou por um processo de otimização via Grid Search.
 6. [**Segmentação de Clientes com K-Means Clustering**](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/IBM_ML0101EN_Segmenta%C3%A7%C3%A3o_de_Clientes_com_K_Means.ipynb): Estudo com dados históricos de clientes, baseando-se em atributos como educação, renda e dívidas, por exemplo. O objetivo consistiu de criar grupos de clientes com padrões de compras parecidos, através do algorítmo de clusterização K-Means. Com isto, é possível direcionar estratégias de marketing mais efetivas para cada grupo, economizando recursos para a empresa.
 7. [**Análise dos Lançamentos do Foguete Falcon 9 da SpaceX**](https://github.com/gabrielrflopes/Estudos/blob/main/Notebooks/2_SpaceX_Falcon9_Launches_Data.ipynb): Estudo que consiste da análise exploratória e visualização de dados, utilizando Matplotlib e Seaborn, dos lançamentos do foguete Falcon 9 da SpaceX.
+
+#### Habilidades 
+
+- Programação: **Python, SQL, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyCaret, TensorFlow, Keras, LaTeX, DataBricks, AWS.**
+- Habilidades Técnicas: **Matemática Avançada, Probabilidade e Estatística, Física, Time Series, Metodologia Científica.**
+
+#### Soft Skills 
+
+- Pensamento Analítico; Escrita Científica; Oratória; Comunicação interpessoal; Organização.
+
+#### Idiomas
+
+- Inglês avançado (B2 - Excelente conversação, escrita e leitura)
+- Espanhol básico (Entende bem, Lê bem)
 
 ## Certificados
 
@@ -90,6 +78,18 @@ Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seg
 
 * [Photoconductivity effect in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/119/3/032104/41763/Photoconductivity-effect-in-SnTe-quantum-well)
 * [Weak antilocalization effect and multi-channel transport in SnTe quantum well (Applied Physics Letters)](https://pubs.aip.org/aip/apl/article/120/20/203102/2833593/Weak-antilocalization-effect-and-multi-channel)
+
+## Gabriel R. F. Lopes
+
+Bacharel e Mestre em Física pela Universidade Federal de Itajubá, referência mundial na área de exatas e engenharia. Possuo 6 anos de experiência com projetos de análise de dados, desde a condução de experimentos, coleta de dados, até o tratamento e visualização desses dados para apresentação. Trabalhei para transformar informação em conhecimento através da interpretação de variáveis e conceitos de física e matemática avançadas utilizando dados.
+
+Na minha experiência acadêmica durante o Mestrado, coordenei e supervisionei experimentos, realizei a análise dos dados, construí modelos preditivos e testei hipóteses sobre o comportamento de semicondutores para aplicações em dispositivos eletrônicos. Da pesquisa, resultaram dois artigos publicadods na *Applied Physics Letters* com estudos inéditos.
+
+Como cientista de dados, construo modelos preditivos baseados em aprendizado de máquina, utilizando das técnicas mais difundidas. Com amplo conhecimento das ferramentas do Python e suas bibliotecas essenciais, além da experiência com SQL, bancos de dados relacionais, Big Data e Cloud, sou  capaz de criar soluções visando soluções para problemas de negócios em diversos nichos.
+
+Tenho experiência com modelos de aprendizado supervisionado e não-supervisionado, como regressão (linear, polinomial, bayesiana, lasso), classificação (regressão logística, decision trees, random forest, kNN, SVM), clustering (K-Means, DBSCAN), além de técnicas de Boosting de Gradiente, como XGBoost e LightGBM.
+
+Busco apresentar meus códigos sempre de maneira organiza e bem documentada, seguindo os princípios do _data storytelling_ para melhorar o entendimento e hierarquização das informações. Nas minhas análises, busco seguir uma metodologia científica para tirar conclusões precisas e não-intuitivas.
 
 ## Links importantes:
 
