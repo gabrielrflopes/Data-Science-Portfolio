@@ -9,9 +9,7 @@
 - [Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos)
 - [Projetos de Estudo](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudo)
 - [Certificados](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#certificados)
-- [Artigos sobre os Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-os-projetos)
-- [Artigos sobre Data Science](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-data-science)
-- [Artigos Acadêmicos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-acad%C3%AAmicos)
+- [Artigos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-os-projetos)
 - [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
 - [Quem Sou Eu](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#gabriel-r-f-lopes)
 
