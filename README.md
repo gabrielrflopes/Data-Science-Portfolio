@@ -90,6 +90,7 @@
 * [Criando interações com gráficos usando o iPyWidgets](https://medium.com/@grflopes/criando-intera%C3%A7%C3%B5es-com-gr%C3%A1ficos-usando-o-ipywidgets-49a83dad43ec)
 * [O dicionário de conceitos fundamentais em Data Science](https://grflopes.medium.com/o-dicionário-de-conceitos-fundamentais-em-data-science-c818b04e3a2b)
 * [Por que a otimização é importante no Machine Learning?](https://medium.com/@grflopes/por-que-a-otimiza%C3%A7%C3%A3o-%C3%A9-importante-no-machine-learning-53cd4ace03f)
+* [Conceitos de Deep Learning para novos curiosos](https://medium.com/@grflopes/definições-de-deep-learning-para-novos-curiosos-0067a74e2cbf)
 
 ## Artigos Acadêmicos
 
