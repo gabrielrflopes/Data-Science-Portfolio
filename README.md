@@ -7,7 +7,7 @@
 ## Índice
 
 - [Projetos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos)
-- [Projetos de Estudos em *Machine Learning* da IBM](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudo)
+- [Projetos de Estudos IBM](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudos-ibm)
 - [Certificados](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#certificados)
 - [Artigos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-os-projetos)
 - [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
@@ -34,7 +34,7 @@
 
 7. [**Previsão de Demanda de Vendas utilizando Séries Temporais**](https://github.com/gabrielrflopes/Wine_Demand_Prediction): Este projeto analisou os dados de 219 vinhos distintos e seus respectivos dados de venda ao longo de 3 anos. Com um conjunto de dados de mais de 700 mil entradas, construiu-se uma análise exploratória completa dos produtos, investigando quais possuem maior fluxo de vendas e quais convertem em maior receita. Assim, foi possível vislumbrar uma estratégia logística para o negócio. Da parte da previsão de demanda, utilizou-se o Prophet sobre dados históricos de vendas, construíndo um modelo de série temporal estacionária que obteve um erro absoluto médio (**MAE**) baixíssimo, de 0,74, e um **MAPE** abaixo de 10%. Foi possível prever, com um nível aceitável de incerteza, até um ano de vendas futuras.
 
-## Projetos de Estudos em *Machine Learning* da IBM
+## Projetos de Estudos IBM
 
 ### Regressão Línear e Regressão Múltipla
 
