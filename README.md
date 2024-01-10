@@ -10,8 +10,8 @@
 - [Projetos de Estudos IBM](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#projetos-de-estudos-ibm)
 - [Certificados](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#certificados)
 - [Artigos](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#artigos-sobre-os-projetos)
-- [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
 - [Quem Sou Eu](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#gabriel-r-f-lopes)
+- [Links Importantes](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main#links-importantes)
 
 ## Projetos
 
